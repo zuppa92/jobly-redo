@@ -1,0 +1,16 @@
+/* src/CompanyDetail.css */
+.CompanyDetail {
+    margin: 20px;
+  }
+  
+  .CompanyDetail h1 {
+    font-size: 2em;
+  }
+  
+  .CompanyDetail .description {
+    margin: 10px 0;
+  }
+  
+  .CompanyDetail .jobs {
+    margin-top: 20px;
+  }

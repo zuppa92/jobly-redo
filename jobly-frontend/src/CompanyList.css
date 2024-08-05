@@ -1,0 +1,9 @@
+/* src/CompanyList.css */
+.CompanyList {
+  padding-top: 2rem;
+}
+
+.CompanyList .lead {
+  text-align: center;
+  margin-top: 2rem;
+}

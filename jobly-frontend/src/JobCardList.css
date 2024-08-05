@@ -1,0 +1,12 @@
+/* src/JobCardList.css */
+.JobCardList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .JobCardList .JobCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }

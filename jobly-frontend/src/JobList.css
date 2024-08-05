@@ -1,0 +1,10 @@
+/* src/JobList.css */
+.JobList {
+  margin-top: 20px;
+}
+
+.JobList .lead {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}

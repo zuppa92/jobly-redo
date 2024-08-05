@@ -1,0 +1,34 @@
+/* src/CompanyCard.css */
+.CompanyCard {
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.CompanyCard .card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+.CompanyCard .card-body {
+  padding: 10px;
+}
+
+.CompanyCard .card-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.CompanyCard .card-title a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.CompanyCard .card-title a:hover {
+  text-decoration: underline;
+}
+
+.CompanyCard .card-text {
+  font-size: 1rem;
+}

@@ -1,0 +1,35 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.NavBar {
+  background-color: #343a40;
+  padding: 10px;
+}
+
+.NavBar .navbar-brand {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.NavBar .navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.NavBar .nav-item {
+  margin-right: 15px;
+}
+
+.NavBar .nav-link {
+  color: white;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.NavBar .nav-link:hover {
+  color: #ddd;
+}
